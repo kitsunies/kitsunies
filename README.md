@@ -1,12 +1,13 @@
 # 𝗛𝗲𝘆𝗼！<img src="http://25.media.tumblr.com/tumblr_m19ay5UfaL1qzl9pho1_400.gif" width=40> 
 
-𝗜'𝗺 [Kitsun](https://github.com/kitsunies)！𝗜'𝗺 𝗮 𝗻𝗼𝘃𝗶𝗰𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗴𝗮𝗺𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
+𝗜'𝗺 [Kitsun](https://github.com/kitsunies)<b>！</b>𝗜'𝗺 𝗮 𝗻𝗼𝘃𝗶𝗰𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗴𝗮𝗺𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
 
 <img align="right" width="275px" src="https://i.vgy.me/BascUy.png">
 
 ## About <img src="http://25.media.tumblr.com/tumblr_m1gcei3AGf1qzl9pho1_250.gif" width=30>
 
 <!-- - 👨‍💻 My Portfolio: URL -->
+- <img alt="discord" width="21px" align="top" src="https://svgshare.com/i/Qdg.svg"> My Discord: Kitsun#6969
 - 📫 My email: kitsunies@gmail.com
 - 🌱 Languages and Tools: 
 <p align="center">
