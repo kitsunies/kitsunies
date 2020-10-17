@@ -25,6 +25,7 @@
 
   <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE">
   <img alt="netbeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=Apache%20NetBeans%20IDE">
+  <img alt="trello" src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=Trello">
   <img alt="vscode" src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visual%20studio%20code">
   <img alt="vs2019" src="https://img.shields.io/badge/VS2019-5C2D91?style=flat-square&logo=visual%20studio">
   <img alt="atom" src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom">
@@ -32,6 +33,7 @@
 
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-DC382D?style=flat-square&logo=sqlite&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <br/>
