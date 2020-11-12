@@ -3,7 +3,7 @@
 
 <img align="right" width="275px" src="https://i.vgy.me/BascUy.png">
 
-<h2 align="center"> About <img src="http://25.media.tumblr.com/tumblr_m1gcei3AGf1qzl9pho1_250.gif" width=30></h2>
+<h2 align="center"> About </h2>
 
 - <img alt="discord" width="23px" align="top" 
 src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is Kitsun#3852
