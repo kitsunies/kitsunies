@@ -1,47 +1,66 @@
-# 𝗛𝗲𝘆𝗼！<img src="http://25.media.tumblr.com/tumblr_m19ay5UfaL1qzl9pho1_400.gif" width=40> 
-
-𝗜'𝗺 [Kitsun](https://github.com/kitsunies)<b>！</b>𝗜'𝗺 𝗮 𝗻𝗼𝘃𝗶𝗰𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗴𝗮𝗺𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/kitsunies"><strong>Kitsun</strong></a></h1>
+<h3 align="center">A passionate developer from Australia</h3>
 
 <img align="right" width="275px" src="https://i.vgy.me/BascUy.png">
 
-## About <img src="http://25.media.tumblr.com/tumblr_m1gcei3AGf1qzl9pho1_250.gif" width=30>
+<h2 align="center"> About <img src="http://25.media.tumblr.com/tumblr_m1gcei3AGf1qzl9pho1_250.gif" width=30></h2>
 
-<!-- - 👨‍💻 My Portfolio: URL -->
-- <img alt="discord" width="23px" align="top" src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is Kitsun#6969
-- 📫 My email is <a href="mailto: kitsunies@gmail.com">kitsunies@gmail.com</a>
-- 🔭 I'm currently learning Typescript <img width="21px" align="top" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-- 🌱 My Languages and Tools: 
-<p align="center">
-  <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-  <img alt="redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
-  <img alt="webpack" src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack&logoColor=white">
-  <img alt="material-ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white">
-  <br/>
-  
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-  <img alt="html5" src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img alt="moonscript" src="https://img.shields.io/badge/MoonScript-825794?style=flat-square&logo=insomnia&logoColor=white">
-  <img alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua">
-  <br/>
+- <img alt="discord" width="23px" align="top" 
+src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is Kitsun#3852
 
-  <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE">
-  <img alt="netbeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=Apache%20NetBeans%20IDE">
-  <img alt="trello" src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=Trello">
-  <img alt="vscode" src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visual%20studio%20code">
-  <img alt="vs2019" src="https://img.shields.io/badge/VS2019-5C2D91?style=flat-square&logo=visual%20studio">
-  <img alt="atom" src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom">
-  <br/>
+- 📫 Reach me  at <a href="mailto: kitsunies@gmail.com">kitsunies@gmail.com</a>
 
-  <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
-  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
-  <img alt="sqlite" src="https://img.shields.io/badge/SQLite-DC382D?style=flat-square&logo=sqlite&logoColor=white">
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <br/>
+- 🔭 I'm currently learning Typescript
+
+- 💬 Ask me anything about Lua
+
+- ⚡ Fun fact, I've been performing music for over 5 years!
+
+<h3 align="left">🗣️ Connect with me</h3>  
+<p align="left">  
+<!-- Code Pen -->
+<a href="https://codepen.io/kitsunies" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="kitsunies" height="30" width="40" /></a>  
+<!-- Dev . -->
+<a href="https://dev.to/kitsunies" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kitsunies" height="30" width="40" /></a>  
+<!-- Twitter -->
+<a href="https://twitter.com/_kitsun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_kitsun" height="30" width="40" /></a>  
+<!-- Stack Overflow -->
+<a href="https://stackoverflow.com/users/14374481" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14374481" height="30" width="40" /></a>  
+<!-- Code Sandbox -->
+<a href="https://codesandbox.com/kitsun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="kitsun" height="30" width="40" /></a>  
+<!-- Code Forces -->
+<a href="https://codeforces.com/profile/kitsunies" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kitsunies" height="30" width="40" /></a>  
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="display:inline" src="https://github-readme-stats.vercel.app/api?username=kitsunies&show_icons=true&hide_border=true">
-    <img style="display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitsunies&layout=compact&hide_border=true&include_all_commits=true">
+<h3 align="left">🌱 Languages and Tools</h3>
+
+<!-- Lua -->
+<p align="left"> <a href="www.lua.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="40" height="40" /> </a>
+<!-- JavaScript-->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img 
+src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<!-- Html5 -->
+<a href="https://reactnative.dev/" target="_blank"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<!-- Css3 -->
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a> 
+<!-- Sass -->
+<a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactjs" width="40" height="40"/> </a> 
+<!-- Redux -->
+<a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+<!-- Electron -->
+<a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+<!-- Bash -->
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<!-- Firebase  -->
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+<h3 align="left">📊 GitHub Statistics</h3>
+<a href="https://github.com/kitsunies/kitsunies">
+    <img style="display:inline" src="https://github-readme-stats.vercel.app/api?username=kitsunies&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs,prs">
+    <img style="display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitsunies&layout=compact&hide_border=true">
 </a>
