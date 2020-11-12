@@ -7,9 +7,10 @@
 ## About <img src="http://25.media.tumblr.com/tumblr_m1gcei3AGf1qzl9pho1_250.gif" width=30>
 
 <!-- - 👨‍💻 My Portfolio: URL -->
-- <img alt="discord" width="21px" align="top" src="https://svgshare.com/i/Qdg.svg"> My Discord: Kitsun#6969
-- 📫 My email: kitsunies@gmail.com
-- 🌱 Languages and Tools: 
+- <img alt="discord" width="23px" align="top" src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is Kitsun#6969
+- 📫 My email is <a href="mailto: kitsunies@gmail.com">kitsunies@gmail.com</a>
+- 🔭 I'm currently learning Typescript <img width="21px" align="top" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+- 🌱 My Languages and Tools: 
 <p align="center">
   <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   <img alt="redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
@@ -40,4 +41,7 @@
   <br/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kitsunies&show_icons=true&hide_border=true">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="display:inline" src="https://github-readme-stats.vercel.app/api?username=kitsunies&show_icons=true&hide_border=true">
+    <img style="display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitsunies&layout=compact&hide_border=true&include_all_commits=true">
+</a>
