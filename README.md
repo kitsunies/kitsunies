@@ -10,7 +10,7 @@ src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is Kitsun#3852
 
 - 📫 Reach me  at <a href="mailto: kitsunies@gmail.com">kitsunies@gmail.com</a>
 
-- 🔭 I'm currently learning Typescript
+- 🔭 I'm currently learning Typescript & MySQL
 
 - 💬 Ask me anything about Lua
 
