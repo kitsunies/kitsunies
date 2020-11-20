@@ -10,7 +10,7 @@ src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is Kitsun#3852
 
 - 📫 Reach me  at <a href="mailto: kitsunies@gmail.com">kitsunies@gmail.com</a>
 
-- 🔭 I'm currently learning Typescript & MySQL
+- 🔭 I'm currently learning Typescript
 
 - 💬 Ask me anything about Lua
 
@@ -52,17 +52,13 @@ src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-
 <a href="https://reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactjs" width="40" height="40"/> </a> 
 <!-- Redux -->
 <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<!-- Electron -->
-<a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
 <!-- Bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<!-- Firebase  -->
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 <h3 align="left">📊 GitHub Statistics</h3>
 <a href="https://github.com/kitsunies/kitsunies">
-    <img style="display:inline" src="https://github-readme-stats.vercel.app/api?username=kitsunies&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs,prs">
+    <img style="display:inline" src="https://github-readme-stats.vercel.app/api?username=kitsunies&show_icons=true&hide_border=true&include_all_commits=true&hide=contribs,issues">
     <img style="display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitsunies&layout=compact&hide_border=true">
 </a>
