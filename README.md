@@ -37,9 +37,9 @@ src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is Kitsun#3852
 <!-- Lua -->
 <p align="left"> <a href="https://lua.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="40" height="40" /> </a>
 <!-- Terra -->
-<a href="https://terralang.org" target = "_blank"> <img src="https://i.ibb.co/0DK7C4m/terra.png" alt="terra" width="40" height="40 /> </a>
+<a href="https://terralang.org" target = "_blank"> <img src="https://i.ibb.co/0DK7C4m/terra.png" alt="terra" width="40" height="40"/> </a>
 <!-- TypeScript -->
-<a href="https://typescriptlang.org/" target="_blank"> <img src="https://i.ibb.co/N69y82d/Typescript.png" alt="typescript" width="40" height="40/> </a>
+<a href="https://typescriptlang.org/" target="_blank"> <img src="https://i.ibb.co/N69y82d/Typescript.png" alt="typescript" width="40" height="40"/> </a>
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img 
 src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
