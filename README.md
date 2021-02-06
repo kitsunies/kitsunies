@@ -6,7 +6,7 @@
 <h2 align="center"> About </h2>
 
 - <img alt="discord" width="23px" align="top" 
-src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is Kitsun#3852
+src="https://svgshare.com/i/Qdg.svg">&nbsp; My Discord is kitsunie#3852
 
 - 📫 Reach me  at <a href="mailto: kitsunies@gmail.com">kitsunies@gmail.com</a>
 
