@@ -21,4 +21,4 @@
 
 <br />
 
-<h3 align="center">you'll be able to quickly find me on Discord, my tag is <code>kitsun#6835</code></h3>
+<h3 align="center">You'll be able to quickly find me on Discord, my tag is <code>kitsun#6835</code></h3>
