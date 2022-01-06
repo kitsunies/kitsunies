@@ -1,8 +1,8 @@
 <h1 align="center">Howdy, I'm <a href="https://github.com/kitsunies"><strong>Kitsun</strong></a></h1>
-<h3 align="center">A professional coffee consumer</h3>
+<h3 align="center">Professional coffee drinker</h3>
 
 <div align="center">
-    Currently, a main C and Front-end developer, knowing the bare minimum for a few other languages. I used to make Lua libraries and discord bots, but now I just do whatever really. Recently, I've been learning Java and its shenanigans.
+    Currently, a main C# and Front-end developer, knowing the bare minimum for a few other languages. I used to make Lua libraries and discord bots, but now I just do whatever really. Recently, I've been learning Java and its shenanigans.
 </div>
 
 <h2 align="center">Other Stuff</h2>
